@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+  "node": "14.18.1"},
   "scripts": {
     "test": "jest",
-    "main": " node index.js",
+    "main": "node index.js",
     "dev": "nodemon index.js"
   },
   "repository": {
