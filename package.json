@@ -7,7 +7,7 @@
   "node": "14.18.1"},
   "scripts": {
     "test": "jest",
-    "main": "index.js",
+    "main": "node index.js",
     "dev": "nodemon index.js"
   },
   "repository": {
