@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "main": "node index.js",
+    "main": " node index.js",
     "dev": "nodemon index.js"
   },
   "repository": {
