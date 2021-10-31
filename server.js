@@ -3,7 +3,7 @@ const { response } = require('express');
 const express = require('express');
 const app = express();
 require('dotenv').config();
-const PORT = process.env.PORT || 3000;
+const PORT =3000;
 const notFoundHandler = require('./handlers/404')
 const errorHandler = require('./handlers/500')
 const stamper = require('./mid/stamper')
